@@ -1,0 +1,25 @@
+[information]
+projectname=HelloWorld.mpr
+filename=HelloWorld.mrp
+appname=HelloWorld
+appid=100000	
+version=1001
+visible=1
+cpu=3
+vendor=M-CAP7AIN
+description=Hello Iran
+include=C:\Users\iDevice\Desktop\SKYSDK\include
+config=mtk240
+
+[config_mtk240]
+output= HelloWorld.mrp
+bmp_mode=normal
+
+[files_mtk240]
+file01 = demo.c
+file02 = hellostr.bmp
+file03 = xj.mid
+
+[files]
+
+
